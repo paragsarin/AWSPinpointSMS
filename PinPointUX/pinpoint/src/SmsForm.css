@@ -1,0 +1,57 @@
+.sms-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .sms-form div {
+    margin-bottom: 10px;
+  }
+  
+  .sms-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  .test
+  {
+    display: flex;
+    list-style: none;
+    top: 0;
+    left: 0;
+    position: fixed;
+    padding-right: 30px;
+  }
+  a.active
+  {
+    color: green;
+  }
+  .test2
+  {
+
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  .sms-form textarea,
+  .sms-form input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .sms-form .error-message {
+    color: red;
+    margin-top: 5px;
+  }
+  
+  .sms-form .send-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .sms-form .send-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }

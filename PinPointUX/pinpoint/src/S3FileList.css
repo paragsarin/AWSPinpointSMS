@@ -1,0 +1,42 @@
+.s3-file-list {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.s3-file-list h2 {
+  margin-bottom: 20px;
+}
+
+.s3-file-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.s3-file-list li {
+  margin-bottom: 10px;
+}
+
+.s3-file-list button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.s3-file-list button:hover {
+  background-color: #0056b3;
+}
+
+.s3-file-list button:focus {
+  outline: none;
+}
+
+.s3-file-list pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  overflow-x: auto;
+  border-radius: 5px;
+}
