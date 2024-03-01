@@ -9,9 +9,9 @@ I recently delved into the realm of AWS Pinpoint SMS service and discovered its 
 In this project, I aim to share my insights and strategies on how to utilize AWS Pinpoint SMS for two-way communication effectively. I believe that by contributing to the community's knowledge base on this topic, we can enhance understanding and adoption of this innovative service.
 
 #  Key Features
-Exploration of AWS Pinpoint SMS service for two-way communication.
-In-depth insights and strategies for leveraging AWS Pinpoint SMS effectively.
-Contribution to filling the void in available online resources on this topic.
+-  Exploration of AWS Pinpoint SMS service for two-way communication.
+-  In-depth insights and strategies for leveraging AWS Pinpoint SMS effectively.
+-  Contribution to filling the void in available online resources on this topic.
 
 
 #  Getting Started
